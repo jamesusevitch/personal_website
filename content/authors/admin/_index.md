@@ -1,5 +1,4 @@
 ---
-avatar_filename: usevitch_james_1.jpg
 # Display name
 title: James Usevitch
 
