@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Autonomous Systems Researcher at MIT Lincoln Laboratory
+role: Autonomous Systems Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
